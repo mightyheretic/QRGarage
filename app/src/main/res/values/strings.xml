@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR Garage</string>
+    <string name="notif_channel_backup">Backups</string>
+    <string name="notif_channel_backup_desc">Alerts when a scheduled backup fails</string>
+</resources>
